@@ -29,7 +29,7 @@
                 android:id="@+id/textViewowner"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:padding="15dp"
+                android:layout_marginTop="30dp"
                 android:text="I want to Hire"
                 android:textAlignment="center"
                 android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
